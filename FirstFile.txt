@@ -1,2 +1,2 @@
-This is the first fiel for the TestGit Project.
+This is the first file for the TestGit Project.
 You may modify/delete/add lines in this file.
