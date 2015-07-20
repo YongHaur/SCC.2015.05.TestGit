@@ -8,7 +8,7 @@ This is a *very important* file!
 
 This is an even **more important** sentence.
 
-This are the 5 points:
+These are the 5 points:
 
 - Point 1: bla bla bla
 - Point 2: bla bla bla
