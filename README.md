@@ -16,3 +16,8 @@ This are the 5 points:
 - Point 4: Review Point 3
 - Point 5: Point 4 statement is true
  
+SUPER IMPORTANT 
+===============
+
+*STUDY MORE
+**STUDY!!!**
