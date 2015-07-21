@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main()
+{
+    printf("Welcome to scc 2015!");
+    
+    return 0;
+}
