@@ -2,10 +2,10 @@
 
 ##Hi, Welcome to Tokyo
 
-###**Day 1**
+###Day 1
 
 This is a *very important* file!
-This ==is== an even **more important** sentence.
+This is an even **more important** sentence.
 
 ^This are the 5 points:^
 
@@ -15,4 +15,8 @@ This ==is== an even **more important** sentence.
 - Point 4: bla bla bla
 - Point 5: bla bla bla
  
-^See u tomorrow^
+See u tomorrow
+
+jhgk |ghkghk
+abc|efg
+-gjkghk |ghkhjg
