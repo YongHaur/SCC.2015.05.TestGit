@@ -1,8 +1,8 @@
 # SCC.2015.05.TestGit
 TestGit for SCC 2015.05
 
-Title
-
+**Title**
+=========
 
 This is a *very important* file!
 
@@ -16,3 +16,8 @@ This are the 5 points:
 - Point 4: bla bla bla
 - Point 5: bla bla bla
  
+These are 2 points:
+
+1. abc
+2. dec 
+3. ghi
