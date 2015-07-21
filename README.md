@@ -21,3 +21,10 @@ These are 2 points:
 1. abc
 2. dec
 3. ghi
+
+
+```
+x = 0
+x = 2 + 2
+what is x
+```
