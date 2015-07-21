@@ -1,8 +1,8 @@
 # SCC.2015.05.TestGit
 
-==##Hi, Welcome to Tokyo==
+##==Hi, Welcome to Tokyo==
 
-**###Day 1**
+###**Day 1**
 
 This is a *very important* file!
 This is an even **more important** sentence.
