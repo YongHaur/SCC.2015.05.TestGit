@@ -10,9 +10,9 @@ This is an even **more important** sentence.
 
 This are the 5 points:
 
-- Point 1: bla bla bla
-- Point 2: bla bla bla
-- Point 3: bla bla bla
-- Point 4: bla bla bla
-- Point 5: bla bla bla
+- Point 1: Learn git
+- Point 2: Dont forget Point 1
+- Point 3: Read Point 2
+- Point 4: Review Point 3
+- Point 5: Point 4 statement is true
  
