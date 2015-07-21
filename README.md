@@ -17,6 +17,8 @@ This is an even **more important** sentence.
  
 See u tomorrow
 
+Content|Point
+-------|--------
 jhgk |ghkghk
 abc|efg
 -gjkghk |ghkhjg
