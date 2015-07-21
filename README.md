@@ -26,4 +26,8 @@ Content | Point
 4 | bla bla bla
 5 | bla bla bla
 
+:clap:
+:clap:
+:clap:
+
 ***End***
