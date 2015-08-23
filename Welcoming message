@@ -3,6 +3,6 @@
 int main()
 {
     printf("Welcome to scc 2015!");
-    
+    printf("banana babanana");
     return 0;
 }
